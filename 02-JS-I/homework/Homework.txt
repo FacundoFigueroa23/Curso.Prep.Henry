@@ -1,0 +1,13 @@
+Las variables son fon formas en las que podemos guardar valores para usarlos luego.
+
+Los strings son un tipo de dato que va entre comillas. Puede contener tanto letras como números.
+
+Las funciones son elementos que nos facilitan la escritura del código. Estas pueden necesitar o no 
+argumentos, que son datos que le podemos pasar a la función. Además, si necesitamos que nuestra función 
+nos devuelva una valor podemos hacerlo con la declaración return.
+
+El if es algo que le permite a nuestra función hacer una comparación y como resultado nos da un dato de 
+tipo booleano.
+
+Los valores booleanos son dos: true cuando el resulatdo de una comparación es verdadero y false, cuando 
+el resultado de una comparación es falso.
