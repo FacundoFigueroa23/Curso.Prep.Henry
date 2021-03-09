@@ -1,0 +1,9 @@
+EL for es un bucle que nos permite ejecutar operaciones una determinada cantidad de veces.
+
+&& es el operador "Y" (AND) y sirve para comparar dos expresiones. Esta da verdadero cuando ambas 
+expresiones lo son. Sino da falso.
+
+|| es el operador "O" (OR) y sirve para comparar dos expresiones. Esta da verdadero cuando una o 
+ambas expresiones lo son. De lo contrario da falso.
+
+! es el operador "NO" (NOT). Este devuelve el valor booleano opuesto al dado.
