@@ -1,0 +1,2 @@
+Los arrays son listas en los que podemos guardar toto tipo de datos. Se los puede recorrer ya que cuentan 
+con un índice.
