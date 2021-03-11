@@ -1,0 +1,14 @@
+Los objetos, al igual que los arreglos, nos permiten almacenar datos.
+
+Los pares clave:valor son las propiedades de los objetos. La clave es el nombre de la propiedad y el valor 
+es el valor de la propiedad.
+
+Los métodos son funciones que guardamos en los objetos.
+
+Para recorrer un objeto, no se pude utilizar el búcle for porque los objetos a diferencia de los arreglos
+no cuentan con índices numéricos. Por eso utilizamos el búcle for...in.
+
+Se puede acceder de dos formas a las propiedades de un objeto: notación de puntos y notación de corchetes.
+La notación de puntos se escribe el nombre del objeto, seguido de un punto y luego el nombre de la 
+propiedad.
+La notación de corchetes es como acceder a un elemento de un arreglo.
