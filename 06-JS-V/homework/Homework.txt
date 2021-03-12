@@ -1,0 +1,5 @@
+El prototype es una propiedad que tienen las clases que nos permiten crear métodos para que los objetos
+basados en esa clase hereden esos métodos.
+
+El constructor es el método que nos permite definir las propiedades de una clase. Recibe las propiedes
+como parámetros y luego las asigna con la palabra clave this.
